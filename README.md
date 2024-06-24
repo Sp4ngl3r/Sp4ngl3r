@@ -39,10 +39,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript,typescript,html,css,go"/><br>
-    <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,django,express"/><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vue,alpinejs,bun"/><br>
-    <img src="https://skillicons.dev/icons?i=docker,git,aws,babel,bash,blender,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,php,javascript,typescript,html,css"/><br>
+    <img src="https://skillicons.dev/icons?i=laravel,spring,nodejs,django,express"/><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vue,alpinejs,bun,nextjs"/><br>
+    <img src="https://skillicons.dev/icons?i=docker,git,githubactions,aws,bash,jenkins,linux,maven,mysql,postgres,postman" /><br>
 </div>
 
 <br/>
@@ -51,7 +51,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/humanbeeng/humanbeeng/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
