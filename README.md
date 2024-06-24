@@ -14,22 +14,24 @@
  
  🌱 I’m currently learning **Laravel, Next.Js, Docker**
 
-💬 Ask me about **Node.js, React, Spring, Express, Django... or anything [here](https://github.com/Sp4ngl3r/Sp4ngl3r/issues)**
+💬 Ask me about **Spring, Express, Node.js, Laravel, React, Django... or anything [here](https://github.com/Sp4ngl3r/Sp4ngl3r/issues)**
 
 ⚡ Fun fact **Email was invented before the World Wide Web**.
 
  </div>
 
  <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:hemanth921941@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/hemanth-m-kumar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<!--   
+     <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     </a>
+     -->
 </div>
 
  <hr/>
@@ -37,8 +39,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript,typescript,html,css,go"/><br>
+    <img src="https://skillicons.dev/icons?i=spring,laravel,nodejs,django,express"/><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vue,alpinejs,bun"/><br>
+    <img src="https://skillicons.dev/icons?i=docker,git,aws,babel,bash,blender,discord" /><br>
 </div>
 
 <br/>
