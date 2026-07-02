@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a bakery website**
+ 🔭 I’m currently working as **Platform Engineer**
  
- 🌱 I’m currently learning **Laravel, Next.Js, Docker**
+ 🌱 I’m currently learning **Kubernetes and Golang**
 
 💬 Ask me about **Spring, Express, Node.js, Laravel, React, Django... or anything [here](https://github.com/Sp4ngl3r/Sp4ngl3r/issues)**
 
